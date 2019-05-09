@@ -2,6 +2,8 @@
 
 This is a REST API made with nodejs . It is a simple Todo API that performs basic CRUD operations i.e Create, Read, Update and Delete helping users to keep track of daily tasks . It has features like user authentication through JWT , storing profile image for the user with Multer and sending email to a new or leaving user using SendGrid.
 
+A simple API reference provided if you visit the [DEMO](http://manageit-api.herokuapp.com/)
+
 ## Prerequisites
 
 - NodeJS
