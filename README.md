@@ -34,5 +34,14 @@ Running the project (development)
 ```sh
 npm run dev
 ```
+### Testing using Jest
+
+**Make an environment file in the config directory named as test.env similar to example.test.env**
+
+Running the tests
+
+```sh
+npm test
+```
 
 Now you can open the project on `localhost:3000`
